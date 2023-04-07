@@ -5,6 +5,8 @@ Machine Learning Reference Materials
 * Optimization
 * Emprical Risk Minimization
 * Machine Learning Algorithms
+* Computer Vision
+* Natural Language Processing
 
 ## Organizations
 * [Launchpad: ](https://launchpad.berkeley.edu/projects/)
