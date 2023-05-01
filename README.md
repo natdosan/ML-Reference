@@ -16,3 +16,6 @@ Machine Learning Reference Materials
 * TreeHacks
 * Data Science Society
 * [ACM AI: ](https://ai.acmucsd.com/)
+
+## Other
+* [CatalyzeX](https://www.catalyzex.com/paper/arxiv:1901.03915)
