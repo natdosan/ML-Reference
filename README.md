@@ -2,14 +2,6 @@
 This repository includes Machine Learning Reference Materials and links to organizations I follow 
 at UCSD and UC Berkeley
 
-## contains resources to topics such as 
-* Deep Learning
-* Optimization
-* Emprical Risk Minimization
-* Machine Learning Algorithms
-* Computer Vision
-* Natural Language Processing
-
 ## Organizations
 * [BAIR](https://bair.berkeley.edu/blog/?refresh=1)
 * [Launchpad](https://launchpad.berkeley.edu/projects/)
