@@ -11,13 +11,14 @@ at UCSD and UC Berkeley
 * Natural Language Processing
 
 ## Organizations
-* [Launchpad: ](https://launchpad.berkeley.edu/projects/)
-* [ML@Berkeley: ](https://ml.berkeley.edu/)
-* [CalHacks: ](https://www.calhacks.io/)
-* [Big Data @ Berkeley: ](https://bd.berkeley.edu/)
+* [BAIR](https://bair.berkeley.edu/blog/?refresh=1)
+* [Launchpad](https://launchpad.berkeley.edu/projects/)
+* [ML@Berkeley](https://ml.berkeley.edu/)
+* [CalHacks](https://www.calhacks.io/)
+* [Big Data @ Berkeley](https://bd.berkeley.edu/)
 * TreeHacks
 * Data Science Society
-* [ACM AI: ](https://ai.acmucsd.com/)
+* [ACM AI](https://ai.acmucsd.com/)
 
 ## Other
 * [CatalyzeX](https://www.catalyzex.com/paper/arxiv:1901.03915)
