@@ -1,5 +1,7 @@
 # ML-Reference
-Machine Learning Reference Materials 
+This repository includes Machine Learning Reference Materials and links to organizations I follow 
+at UCSD and UC Berkeley
+
 ## contains resources to topics such as 
 * Deep Learning
 * Optimization
