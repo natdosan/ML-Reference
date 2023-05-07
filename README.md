@@ -14,4 +14,5 @@ at UCSD and UC Berkeley
 
 ## Other
 * [CatalyzeX](https://www.catalyzex.com/paper/arxiv:1901.03915)
-* [Neurel Style Transfer](https://www.v7labs.com/blog/neural-style-transfer)
+* [Neurel Style Transfer 1](https://www.v7labs.com/blog/neural-style-transfer)
+* [Neurel Style Transfer 2](https://reiinakano.com/2019/06/21/robust-neural-style-transfer.html)
