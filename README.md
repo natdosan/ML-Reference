@@ -13,6 +13,7 @@ at UCSD and UC Berkeley
 * [ACM AI](https://ai.acmucsd.com/)
 
 ## Other
+* [Terminals in DataHub](https://sndev.ucsd.edu/its?id=kb_article_view&sysparm_article=KB0033812)
 * [CatalyzeX](https://www.catalyzex.com/paper/arxiv:1901.03915)
 * [Neurel Style Transfer 1](https://www.v7labs.com/blog/neural-style-transfer)
 * [Neurel Style Transfer 2](https://reiinakano.com/2019/06/21/robust-neural-style-transfer.html)
