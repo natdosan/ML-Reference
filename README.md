@@ -2,6 +2,10 @@
 This repository includes Machine Learning Reference Materials and links to organizations I follow 
 at UCSD and UC Berkeley
 
+## Important
+As of today, May 18th, 2023, the College of Computing, Data Science, and Society has been formed at UC Berkeley. 
+Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bids.berkeley.edu/software)
+
 ## Organizations
 * [BAIR](https://bair.berkeley.edu/blog/?refresh=1)
 * [Launchpad](https://launchpad.berkeley.edu/projects/)
