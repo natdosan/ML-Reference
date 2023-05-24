@@ -23,3 +23,4 @@ Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bi
 * [Neurel Style Transfer 2](https://reiinakano.com/2019/06/21/robust-neural-style-transfer.html)
 * [Big Model](https://sites.google.com/view/icml-2022-big-model)
 * [Visual Intro to ML](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+* [Lily Weng](https://lilywenglab.github.io/)
