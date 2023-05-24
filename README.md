@@ -24,3 +24,4 @@ Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bi
 * [Big Model](https://sites.google.com/view/icml-2022-big-model)
 * [Visual Intro to ML](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [Lily Weng](https://lilywenglab.github.io/)
+* [CSE 152](https://ucsd-cse-152.github.io/FA20/schedule.html)
