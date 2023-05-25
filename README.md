@@ -16,6 +16,11 @@ Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bi
 * Data Science Society
 * [ACM AI](https://ai.acmucsd.com/)
 
+## Courses
+* [CSE 151A](https://shangjingbo1226.github.io/teaching/2023-spring-CSE151A-CSE-251A-ML)
+* [CSE 152A](https://ucsd-cse-152.github.io/FA20/schedule.html)
+
+
 ## Other
 * [Terminals in DataHub](https://sndev.ucsd.edu/its?id=kb_article_view&sysparm_article=KB0033812)
 * [CatalyzeX](https://www.catalyzex.com/paper/arxiv:1901.03915)
@@ -24,4 +29,3 @@ Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bi
 * [Big Model](https://sites.google.com/view/icml-2022-big-model)
 * [Visual Intro to ML](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [Lily Weng](https://lilywenglab.github.io/)
-* [CSE 152](https://ucsd-cse-152.github.io/FA20/schedule.html)
