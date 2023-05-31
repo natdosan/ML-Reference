@@ -31,3 +31,5 @@ Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bi
 * [Lily Weng](https://lilywenglab.github.io/)
 * [Google Cloud](https://docs.google.com/document/d/1YKSzyy5mk2h2lCKmoIyMUJ4AouT5nvzInwRlKxV2rQA/edit)
 * [Hao Zhang](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAa-SsTJUM1M1QlNEWERZTVJKTFJRUzhOUk1FVjg0MC4u)
+* [Parker](https://parkeraddison.com/)
+* [Jeffrey](https://jshen13.github.io/)
