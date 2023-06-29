@@ -33,3 +33,4 @@ Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bi
 * [Hao Zhang](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAa-SsTJUM1M1QlNEWERZTVJKTFJRUzhOUk1FVjg0MC4u)
 * [Parker](https://parkeraddison.com/)
 * [Jeffrey](https://jshen13.github.io/)
+* [RL for Recommender Systems](https://arxiv.org/abs/2101.06286)
