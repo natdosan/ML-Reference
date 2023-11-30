@@ -1,32 +1,35 @@
 # ML-Reference
-This repository includes Machine Learning Reference Materials and links to organizations I follow 
+This repository includes Machine Learning Reference Materials and links to organizations I follow / have participated in
 at UCSD and UC Berkeley
 
 ## Important
 As of today, May 18th, 2023, the College of Computing, Data Science, and Society has been formed at UC Berkeley. 
 Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bids.berkeley.edu/software)
 
+## Curated Courses & Personal Notes
+* [CSE 151A](https://shangjingbo1226.github.io/teaching/2023-spring-CSE151A-CSE-251A-ML)
+* [CSE 151A (Notes)](https://purrfect-zinc-f80.notion.site/CSE-151A-Notes-9ecf18e9b1c8482a8eeb69784a098bf2)
+* [CSE 151B](https://sites.google.com/view/cse151b)
+* [CSE 152A](https://ucsd-cse-152.github.io/FA20/schedule.html)
+* [CS 182](https://inst.eecs.berkeley.edu/~cs182/sp23/)
+* [CS 188](https://inst.eecs.berkeley.edu/~cs188/su23/)
+* [CS 188 (Notes)](https://purrfect-zinc-f80.notion.site/CS-188-Notes-0db1181094744173ac5efdce49d563d9?pvs=4)
+* [CS 189](https://people.eecs.berkeley.edu/~jrs/189/)
+* [Data 100](https://ds100.org/)
+* [Data 102](https://data102.org/fa23/)
+
 ## Organizations
+* [Hacioglu Institute of Data Science](https://dsc-courses.github.io/)
 * [BAIR](https://bair.berkeley.edu/blog/?refresh=1)
 * [Launchpad](https://launchpad.berkeley.edu/projects/)
 * [ML@Berkeley](https://ml.berkeley.edu/)
 * [CalHacks](https://www.calhacks.io/)
 * [Big Data @ Berkeley](https://bd.berkeley.edu/)
 * TreeHacks
-* Data Science Society
+* Berkeley Data Science Society 
 * [ACM AI](https://ai.acmucsd.com/)
 
-## Courses
-* [CSE 151A](https://shangjingbo1226.github.io/teaching/2023-spring-CSE151A-CSE-251A-ML)
-* [CSE 151B](https://sites.google.com/view/cse151b)
-* [CSE 152A](https://ucsd-cse-152.github.io/FA20/schedule.html)
-* [CS 182](https://inst.eecs.berkeley.edu/~cs182/sp23/)
-* [CS 188](https://inst.eecs.berkeley.edu/~cs188/su23/)
-* [CS 189](https://people.eecs.berkeley.edu/~jrs/189/)
-* [Data 100](https://ds100.org/)
-* [Data 102](https://data102.org/fa23/)
-
-## Other
+## Other / People
 * [Terminals in DataHub](https://sndev.ucsd.edu/its?id=kb_article_view&sysparm_article=KB0033812)
 * [CatalyzeX](https://www.catalyzex.com/paper/arxiv:1901.03915)
 * [Neurel Style Transfer 1](https://www.v7labs.com/blog/neural-style-transfer)
