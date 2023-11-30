@@ -18,8 +18,13 @@ Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bi
 
 ## Courses
 * [CSE 151A](https://shangjingbo1226.github.io/teaching/2023-spring-CSE151A-CSE-251A-ML)
+* [CSE 151B](https://sites.google.com/view/cse151b)
 * [CSE 152A](https://ucsd-cse-152.github.io/FA20/schedule.html)
+* [CS 182](https://inst.eecs.berkeley.edu/~cs182/sp23/)
+* [CS 188](https://inst.eecs.berkeley.edu/~cs188/su23/)
 * [CS 189](https://people.eecs.berkeley.edu/~jrs/189/)
+* [Data 100](https://ds100.org/)
+* [Data 102](https://data102.org/fa23/)
 
 ## Other
 * [Terminals in DataHub](https://sndev.ucsd.edu/its?id=kb_article_view&sysparm_article=KB0033812)
