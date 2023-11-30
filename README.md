@@ -11,12 +11,18 @@ Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bi
 * [CSE 151A (Notes)](https://purrfect-zinc-f80.notion.site/CSE-151A-Notes-9ecf18e9b1c8482a8eeb69784a098bf2)
 * [CSE 151B](https://sites.google.com/view/cse151b)
 * [CSE 152A](https://ucsd-cse-152.github.io/FA20/schedule.html)
+* [CSE 158](https://cseweb.ucsd.edu/classes/fa23/cse258-a/)
+* [DSC 100](https://kshannon.github.io/ucsd-dsc100/)
+* [DSC 102](https://dsc-courses.github.io/dsc102-2023-sp/)
+
 * [CS 182](https://inst.eecs.berkeley.edu/~cs182/sp23/)
+* [CS 186](https://cs186berkeley.net/)
 * [CS 188](https://inst.eecs.berkeley.edu/~cs188/su23/)
 * [CS 188 (Notes)](https://purrfect-zinc-f80.notion.site/CS-188-Notes-0db1181094744173ac5efdce49d563d9?pvs=4)
 * [CS 189](https://people.eecs.berkeley.edu/~jrs/189/)
-* [Data 100](https://ds100.org/)
+* [Data 100](https://ds100.org/sp23/)
 * [Data 102](https://data102.org/fa23/)
+
 
 ## Organizations
 * [Hacioglu Institute of Data Science](https://dsc-courses.github.io/)
