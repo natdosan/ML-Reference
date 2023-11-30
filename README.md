@@ -21,7 +21,7 @@ Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bi
 * [CS 188 (Notes)](https://purrfect-zinc-f80.notion.site/CS-188-Notes-0db1181094744173ac5efdce49d563d9?pvs=4)
 * [CS 189](https://people.eecs.berkeley.edu/~jrs/189/)
 * [Data 100](https://ds100.org/sp23/)
-* [Data 102](https://data102.org/fa23/)
+* [Data 101](https://fa23.data101.org/)
 
 
 ## Organizations
