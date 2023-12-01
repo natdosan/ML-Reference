@@ -43,6 +43,7 @@ Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bi
 * [Big Model](https://sites.google.com/view/icml-2022-big-model)
 * [Visual Intro to ML](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [Lily Weng](https://lilywenglab.github.io/)
+* [CS 285 - Deep RL](https://rail.eecs.berkeley.edu/deeprlcourse/)
 * [Google Cloud](https://docs.google.com/document/d/1YKSzyy5mk2h2lCKmoIyMUJ4AouT5nvzInwRlKxV2rQA/edit)
 * [Hao Zhang](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAa-SsTJUM1M1QlNEWERZTVJKTFJRUzhOUk1FVjg0MC4u)
 * [Parker](https://parkeraddison.com/)
