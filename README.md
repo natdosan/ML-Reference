@@ -50,7 +50,12 @@ Read more about it [here](https://data.berkeley.edu/) or about [BIDS](https://bi
 * [RL for Recommender Systems](https://arxiv.org/abs/2101.06286)
 
 ## People
+* [Fei Fei Li](https://profiles.stanford.edu/fei-fei-li?releaseVersion=10.5.2)
+* [Mina Lee (Advised by Percy Liang)](https://minalee.info/about/)
+* [Lily Weng](https://lilywenglab.github.io/)
+* [Rose Yu](roseyu.com)
+* [Sophia Sun](https://huiwenn.github.io/assets/img/idx/cv.pdf)
 * [Jeffrey](https://jshen13.github.io/)
 * [Parker](https://parkeraddison.com/)
 * [Hao Zhang](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAa-SsTJUM1M1QlNEWERZTVJKTFJRUzhOUk1FVjg0MC4u)
-* [Lily Weng](https://lilywenglab.github.io/)
+* [Xinyang_Geng](http://young-geng.xyz/)
